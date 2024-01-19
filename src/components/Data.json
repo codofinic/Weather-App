@@ -1,0 +1,45 @@
+
+[
+    {
+      "day": "Mon",
+      "temp": "27.21",
+      "img": "./cloudy.svg",
+      "desc": "clouds"
+    },
+    {
+      "day": "Thu",
+      "temp": "32.21",
+      "img": "./cloudy.svg",
+      "desc": "Clear"
+    },
+    {
+      "day": "Wed",
+      "temp": "22.21",
+      "img": "./cloudy.svg",
+      "desc": "Clear"
+    },
+    {
+      "day": "Thru",
+      "temp": "24.21",
+      "img": "./cloudy.svg",
+      "desc": "clouds"
+    },
+    {
+      "day": "Fri",
+      "temp": "29.21",
+      "img": "./sunny.svg",
+      "desc": "Clear"
+    },
+    {
+      "day": "Sat",
+      "temp": "22.21",
+      "img": "./sunny.svg",
+      "desc": "Clear"
+    },
+    {
+      "day": "Sun",
+      "temp": "29.21",
+      "img": "./cloudy.svg",
+      "desc": "clouds"
+    }
+  ]

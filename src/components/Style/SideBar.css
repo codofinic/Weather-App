@@ -1,0 +1,35 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+  }
+  .image {
+    width: 40%;
+    height: 40%;
+  }
+  .main {
+    display: flex;
+    justify-content: center;
+    color: #2c3e75;
+    font-weight: bold;
+    overflow-x: scroll;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    /* padding-right: 20px;
+    padding-left: 20px; */
+    overflow-y: hidden;
+    height: 190px;
+  }
+  #container p {
+    margin: 3px;
+  }
+  
+  .borderHover {
+    border-color: #2c3e75;
+  }
